@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 changé en utf8
 
 on continue les dev !
+=======
+changé en utf8 branché !
+>>>>>>> branch1
