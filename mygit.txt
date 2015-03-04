@@ -1,4 +1,8 @@
 changé en utf8 branché !
 
 on continue les dev !
+<<<<<<< HEAD
 modification dans alexrtou21 test
+=======
+modification dans alexrtou2erer
+>>>>>>> b4d72525025c8001d0282f75085d5ca988dfbe70
