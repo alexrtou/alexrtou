@@ -52,7 +52,6 @@ Par contre je ne suis pas informaticien, et je ne sais pas décrire mon besoin..
 
 	Comme chaque besoin est unique, le commercial guidera les clients pour exprimer ses besoins propres !
 
-
 1. **Générer le standard & développer le spécifique**
 
 	L'équipe de développement va regrouper les choix génériques (standards) et développera des briques spécifiques et l'interface associée.
