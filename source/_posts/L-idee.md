@@ -3,9 +3,13 @@ date: 2015-03-19 16:03:04
 tags:
 ---
 
+
 ## A qui s'adresse ceci
 
 Responsable d'une petite entreprise (quelque soit le domaine d'activitée)
+
+
+----------
 
 ## La naissance d'un besoin
 
@@ -15,6 +19,9 @@ J'ai besoin :
 - de résoudre une problématique professionnelle
 
 Par contre je ne suis pas informaticien, et je ne sais pas décrire mon besoin...
+
+
+----------
 
 ## Comment décrire mon besoin
 
