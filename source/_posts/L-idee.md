@@ -13,13 +13,14 @@ Responsable d'une petite entreprise (quelque soit le domaine d'activitée)
 
 ## La naissance d'un besoin
 
-J'ai besoin :
+Je suis à la recherche :
 
-- d'un logiciel spécifique, or rien n'existe sur le marché (ou ça coûte cher...)
-- de résoudre une problématique professionnelle
+- d'un logiciel spécifique, or rien n'existe sur le marché;
+- d'une solution pour résoudre une problématique spécifique.
 
 Par contre je ne suis pas informaticien, et je ne sais pas décrire mon besoin...
 
+Et surtout, je n'ai pas les moyens de payer une société de service pour développer quelque chose !
 
 ----------
 
