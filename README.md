@@ -1,2 +1,3 @@
 # alexrtou
-repo tuto pour git
+
+redirection ici : https://alexrtou.herokuapp.com/
